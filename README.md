@@ -44,7 +44,17 @@ University work and homework.
         </a>
     </ul>
   </li>
+  <li>:open_file_folder: Semester 4
+    <ul>
+      <li>
+        <a href="https://github.com/TimoficiucDaniel/Systems-for-Design-and-Implementation"> 
+          Systems for Design and Implementation
+        </a>
+      </li>
+    </ul>
+  </li>
 </ul>
+
 
 <br>
 <img src="http://www.chem.ubbcluj.ro/romana/conferinte/MEEMB/archive/pictures/ubb.gif" />
